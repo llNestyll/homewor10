@@ -16,6 +16,5 @@ public class Main {
         String fullname = "Иванов Семён Семёнович";
         fullname = fullname.replace("ё","е");
         System.out.println(fullname);
-
     }
 }
